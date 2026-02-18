@@ -1,9 +1,9 @@
 # Hi there, it is Matvey here! 👋
 ## 🤝 Contact
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=appveyor&logo=Telegram&logoColor=white&color=blue)](https://t.me/berdomatvey)
-<!--
-**MatveyBerdo/MatveyBerdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+## Top languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatveyBerdo&layout=compact&theme=dark)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
