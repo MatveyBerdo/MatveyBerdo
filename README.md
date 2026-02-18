@@ -1,5 +1,6 @@
-## Hi there, it is Matvey here! 👋
-
+# Hi there, it is Matvey here! 👋
+## 🤝 Contact
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=appveyor&logo=Telegram&logoColor=white&color=blue)](https://t.me/berdomatvey)
 <!--
 **MatveyBerdo/MatveyBerdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
