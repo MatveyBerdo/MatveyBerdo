@@ -2,10 +2,15 @@
 ## 🤝 Contact
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=appveyor&logo=Telegram&logoColor=white&color=blue)](https://t.me/berdomatvey)
 
+<!--
 ## Top languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatveyBerdo&layout=compact&theme=dark)
+
+## 🎓 Education
+
+Bachelor's Degree in Electronics and Nanoelectronics
+
 Here are some ideas to get you started:
--->
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
